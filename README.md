@@ -34,5 +34,6 @@ The analysis of this election show that:
 ## Election-Audit Summary
 
 For this challenge, we needed to make adjustments to the starter code in order for it to run properly. We added lines to the starter code to formulate calculations to find the winning candidate and votes by county. More data could be gathered during each election to provider a deeper analysis. This script could be modified by going down to another level. We could look at the votes by cities. This would help canidates in the furture to target their campaigns to particular cities.
+![Image](https://github.com/LindsayTeeters/Week-3-Python/blob/main/Resources/Additional/Code%20Screenshot%201.png)
   
 
