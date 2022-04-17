@@ -10,9 +10,10 @@ This project was to assist Seth and Tom with the election audit results. They ha
 
 ## Resources
 
-Data Sources: [election_result.csv](https://github.com/LindsayTeeters/Week-3-Python/blob/main/Resources/election_results.csv)
-              [PyPoll_Challenge_starter_code]
-Software: Python 3.6.1, Visual Studio Code, 1.66.2
+*Data Sources:* [election_result.csv](https://github.com/LindsayTeeters/Week-3-Python/blob/main/Resources/election_results.csv)
+              [PyPoll_Challenge_starter_code](https://github.com/LindsayTeeters/Week-3-Python/blob/main/Resources/PyPoll_Challenge_starter_code.py)
+              
+*Software:* Python 3.6.1, Visual Studio Code, 1.66.2
 
 ## Election-Audit Results
 
